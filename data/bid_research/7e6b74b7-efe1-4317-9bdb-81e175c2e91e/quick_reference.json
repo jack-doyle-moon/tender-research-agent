@@ -1,0 +1,56 @@
+{
+  "key_facts": {
+    "client_name": "Samsic UK",
+    "client_industry": "Facilities Management",
+    "client_size": "",
+    "client_hq": "",
+    "rfp_deadline": "2025-08-22T12:00:00",
+    "presentation_date": "2025-09-09",
+    "total_requirements": 11
+  },
+  "critical_requirements_checklist": [
+    {
+      "requirement": "Integration with our internal systems",
+      "category": "integration",
+      "evidence_available": true
+    },
+    {
+      "requirement": "Integration capabilities with existing tools (e.g. Microsoft Teams, Shared Drives, Salesforce)",
+      "category": "integration",
+      "evidence_available": true
+    }
+  ],
+  "client_technology_stack": [
+    "Microsoft Teams"
+  ],
+  "client_partnerships": [],
+  "client_certifications": [],
+  "presentation_checklist": {
+    "date": "2025-09-09",
+    "location": "Samsic UK, Unit 2 Oak Court, Pilgrims Way, Prologis Park, Coventry, CV6 4QH",
+    "duration": "1 hour total",
+    "attendees": [
+      "Sales & Marketing Director",
+      "Head of Bids",
+      "Head of Procurement"
+    ],
+    "required_topics": [
+      "Key features and highlights of the system",
+      "Tangible benefits to Samsic",
+      "Integration capabilities with existing tools",
+      "Licensing model and cost breakdown",
+      "Return on Investment (ROI) examples",
+      "Proposed implementation approach and timeline",
+      "Ongoing support and maintenance services",
+      "Relevant case studies and 2 client references"
+    ]
+  },
+  "contact_directory": [
+    {
+      "name": "Emma Butler",
+      "title": "Head Of Bids",
+      "email": "",
+      "phone": ""
+    }
+  ]
+}

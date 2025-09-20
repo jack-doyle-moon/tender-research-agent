@@ -1,0 +1,55 @@
+{
+  "key_facts": {
+    "client_name": "Samsic UK",
+    "client_industry": "Facilities Management",
+    "client_size": "Over 3000 employees, serving 1700 sites for 750 organizations",
+    "client_hq": "",
+    "rfp_deadline": "2025-08-22T12:00:00",
+    "presentation_date": "2025-09-09",
+    "total_requirements": 10
+  },
+  "critical_requirements_checklist": [
+    {
+      "requirement": "Integration with our internal systems",
+      "category": "integration",
+      "evidence_available": true
+    }
+  ],
+  "client_technology_stack": [
+    "SamTech integrated security operations platform",
+    "Samsic One app for client and employee communications",
+    "AI cleaning sensors and technology"
+  ],
+  "client_partnerships": [
+    "Adaptiv Systems for IoT solutions and digital transformation"
+  ],
+  "client_certifications": [],
+  "presentation_checklist": {
+    "date": "2025-09-09",
+    "location": "Samsic UK, Unit 2 Oak Court, Pilgrims Way, Prologis Park, Coventry, CV6 4QH",
+    "duration": "1 hour",
+    "attendees": [
+      "Sales & Marketing Director",
+      "Head of Bids",
+      "Head of Procurement"
+    ],
+    "required_topics": [
+      "Key features and highlights of the system",
+      "Tangible benefits to Samsic",
+      "Integration capabilities with existing tools",
+      "Licensing model and cost breakdown",
+      "Return on Investment (ROI) examples",
+      "Proposed implementation approach and timeline",
+      "Ongoing support and maintenance services",
+      "Relevant case studies and 2 client references"
+    ]
+  },
+  "contact_directory": [
+    {
+      "name": "Emma Butler",
+      "title": "Head Of Bids",
+      "email": "",
+      "phone": ""
+    }
+  ]
+}

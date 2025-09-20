@@ -1,0 +1,28 @@
+{
+  "coverage_score": 0.55,
+  "rfp_validation_score": 0.55,
+  "extraction_accuracy": 0.55,
+  "gaps": [
+    {
+      "requirement_id": "ADDITIONAL_RESEARCH",
+      "why": "Validation score 0.55 below threshold 0.7 - additional research needed",
+      "suggested_queries": [
+        "Samsic UK AI-driven content generation capabilities",
+        "Samsic UK integration with internal systems",
+        "Samsic UK user account management features",
+        "Samsic UK bid library import functionality",
+        "Samsic UK case studies on bid management software",
+        "Samsic UK licensing model and ROI examples",
+        "Samsic UK support and maintenance services",
+        "Samsic UK integration with Microsoft Teams and Salesforce"
+      ]
+    }
+  ],
+  "quality_notes": [
+    "Research covers some key requirements but lacks evidence for critical and high-priority items.",
+    "Strength in evidence count for importing bid library but low confidence across requirements.",
+    "Missing evidence for AI-driven content generation and additional user accounts."
+  ],
+  "rfp_validation_notes": [],
+  "is_sufficient": false
+}
