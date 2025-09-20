@@ -1,0 +1,28 @@
+{
+  "coverage_score": 0.55,
+  "rfp_validation_score": 0.55,
+  "extraction_accuracy": 0.55,
+  "gaps": [
+    {
+      "requirement_id": "ADDITIONAL_RESEARCH",
+      "why": "Validation score 0.55 below threshold 0.7 - additional research needed",
+      "suggested_queries": [
+        "Samsic UK integration capabilities with internal systems",
+        "Samsic UK bid library import functionality",
+        "AI-driven content generation features of Samsic UK",
+        "Samsic UK user account management for bid software",
+        "Samsic UK case studies on bid management software",
+        "Samsic UK licensing model and ROI examples",
+        "Samsic UK ongoing support and maintenance services",
+        "Samsic UK competitive differentiation in bid management"
+      ]
+    }
+  ],
+  "quality_notes": [
+    "The research covers key requirements but lacks sufficient evidence for critical requirements.",
+    "Strengths include a good number of evidence points for some high-priority requirements.",
+    "Critical gaps exist in evidence quality and coverage, particularly for user account requirements."
+  ],
+  "rfp_validation_notes": [],
+  "is_sufficient": false
+}

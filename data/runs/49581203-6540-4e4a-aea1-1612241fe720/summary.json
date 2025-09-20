@@ -1,0 +1,13 @@
+{
+  "run_id": "49581203-6540-4e4a-aea1-1612241fe720",
+  "iterations": 0,
+  "is_complete": true,
+  "errors": [
+    "Research error: 1 validation error for ResearchFindings\nrfp_meta\n  Field required [type=missing, input_value={'rfp_metadata': RFPMeta(..., 'mapped_insights': []}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.11/v/missing",
+    "No research findings to validate"
+  ],
+  "coverage_score": 0.0,
+  "requirements_count": 0,
+  "evidence_count": 0,
+  "timestamp": "2025-09-20T11:52:12.865121"
+}

@@ -78,11 +78,6 @@ poetry.lock
 ehthumbs.db
 Thumbs.db
 
-# Application specific
-data/*
-!data/runs/.gitkeep
-!data/cache/.gitkeep
-!data/temp/.gitkeep
 
 # Logs
 logs/

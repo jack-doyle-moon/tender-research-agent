@@ -1,0 +1,1370 @@
+{
+  "requirements_by_category": {
+    "integration": [
+      {
+        "id": "REQ-001",
+        "text": "Integration with our internal systems",
+        "category": "integration",
+        "priority": "critical",
+        "business_impact": "Ensures seamless operation with existing infrastructure",
+        "evaluation_weight": 0.0,
+        "source_section": "As part of the system capabilities, we require",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/",
+            "snippet": "- Waste Management Services - See all services ## Sector Expertise Samsic UK is a national provider of Facilities Management services, trusted by commercial and institutional clients operating across a range of sectors, including Education, Retail, Industrial, Public Sector, Healthcare and Pharmaceuticals, and more. Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning and security service providers in the UK. * ### **Our Services** Samsic UK are proud to offer professional services in cleaning, reception, technical maintenance, security, facility management and landscaping. Services Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning service providers in the UK.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.406,
+        "bid_response_guidance": "Moderate evidence available (0.41 confidence). Strengthen with additional case studies or certifications."
+      },
+      {
+        "id": "REQ-006",
+        "text": "Integration capabilities with existing tools (e.g. Microsoft Teams, Shared Drives, Salesforce)",
+        "category": "integration",
+        "priority": "high",
+        "business_impact": "Ensures compatibility and enhances workflow efficiency",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.38000000000000006,
+        "bid_response_guidance": "Weak evidence (0.38 confidence). Requires significant research or consider partnership/subcontracting."
+      }
+    ],
+    "features": [
+      {
+        "id": "REQ-002",
+        "text": "The ability to import our existing bid library",
+        "category": "features",
+        "priority": "high",
+        "business_impact": "Facilitates continuity and efficiency in bid preparation",
+        "evaluation_weight": 0.0,
+        "source_section": "As part of the system capabilities, we require",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/",
+            "snippet": "- Waste Management Services - See all services ## Sector Expertise Samsic UK is a national provider of Facilities Management services, trusted by commercial and institutional clients operating across a range of sectors, including Education, Retail, Industrial, Public Sector, Healthcare and Pharmaceuticals, and more. Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning and security service providers in the UK. * ### **Our Services** Samsic UK are proud to offer professional services in cleaning, reception, technical maintenance, security, facility management and landscaping. Services Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning service providers in the UK.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.368,
+        "bid_response_guidance": "Weak evidence (0.37 confidence). Requires significant research or consider partnership/subcontracting."
+      }
+    ],
+    "capabilities": [
+      {
+        "id": "REQ-003",
+        "text": "AI-driven content generation and web-based access",
+        "category": "capabilities",
+        "priority": "critical",
+        "business_impact": "Enhances content creation efficiency and accessibility",
+        "evaluation_weight": 0.0,
+        "source_section": "As part of the system capabilities, we require",
+        "supporting_evidence": [],
+        "insights_count": 0,
+        "average_evidence_confidence": 0.0,
+        "bid_response_guidance": "ATTENTION: No supporting evidence found. Research needed for capabilities requirement."
+      }
+    ],
+    "users": [
+      {
+        "id": "REQ-004",
+        "text": "5 super user accounts (for Project Managers and Bid Managers)",
+        "category": "users",
+        "priority": "medium",
+        "business_impact": "Allows key personnel to manage and oversee bid processes",
+        "evaluation_weight": 0.0,
+        "source_section": "As part of the system capabilities, we require",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.3275,
+        "bid_response_guidance": "Weak evidence (0.33 confidence). Requires significant research or consider partnership/subcontracting."
+      },
+      {
+        "id": "REQ-005",
+        "text": "10 additional users with permissions to review content and create smaller proposals",
+        "category": "users",
+        "priority": "medium",
+        "business_impact": "Enables broader team collaboration and proposal creation",
+        "evaluation_weight": 0.0,
+        "source_section": "As part of the system capabilities, we require",
+        "supporting_evidence": [],
+        "insights_count": 0,
+        "average_evidence_confidence": 0.0,
+        "bid_response_guidance": "ATTENTION: No supporting evidence found. Research needed for users requirement."
+      }
+    ],
+    "licensing": [
+      {
+        "id": "REQ-007",
+        "text": "Licensing model and cost breakdown",
+        "category": "licensing",
+        "priority": "high",
+        "business_impact": "Provides clarity on financial commitments and scalability",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/",
+            "snippet": "- Waste Management Services - See all services ## Sector Expertise Samsic UK is a national provider of Facilities Management services, trusted by commercial and institutional clients operating across a range of sectors, including Education, Retail, Industrial, Public Sector, Healthcare and Pharmaceuticals, and more. Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning and security service providers in the UK. * ### **Our Services** Samsic UK are proud to offer professional services in cleaning, reception, technical maintenance, security, facility management and landscaping. Services Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning service providers in the UK.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.368,
+        "bid_response_guidance": "Weak evidence (0.37 confidence). Requires significant research or consider partnership/subcontracting."
+      }
+    ],
+    "roi": [
+      {
+        "id": "REQ-008",
+        "text": "Return on Investment (ROI) examples",
+        "category": "roi",
+        "priority": "high",
+        "business_impact": "Demonstrates financial benefits and value proposition",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/",
+            "snippet": "- Waste Management Services - See all services ## Sector Expertise Samsic UK is a national provider of Facilities Management services, trusted by commercial and institutional clients operating across a range of sectors, including Education, Retail, Industrial, Public Sector, Healthcare and Pharmaceuticals, and more. Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning and security service providers in the UK. * ### **Our Services** Samsic UK are proud to offer professional services in cleaning, reception, technical maintenance, security, facility management and landscaping. Services Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning service providers in the UK.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.368,
+        "bid_response_guidance": "Weak evidence (0.37 confidence). Requires significant research or consider partnership/subcontracting."
+      }
+    ],
+    "implementation": [
+      {
+        "id": "REQ-009",
+        "text": "Proposed implementation approach and timeline",
+        "category": "implementation",
+        "priority": "high",
+        "business_impact": "Ensures timely and effective deployment of the solution",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [],
+        "insights_count": 0,
+        "average_evidence_confidence": 0.0,
+        "bid_response_guidance": "ATTENTION: No supporting evidence found. Research needed for implementation requirement."
+      }
+    ],
+    "support": [
+      {
+        "id": "REQ-010",
+        "text": "Ongoing support and maintenance services",
+        "category": "support",
+        "priority": "high",
+        "business_impact": "Ensures long-term reliability and performance of the system",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/",
+            "snippet": "- Waste Management Services - See all services ## Sector Expertise Samsic UK is a national provider of Facilities Management services, trusted by commercial and institutional clients operating across a range of sectors, including Education, Retail, Industrial, Public Sector, Healthcare and Pharmaceuticals, and more. Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning and security service providers in the UK. * ### **Our Services** Samsic UK are proud to offer professional services in cleaning, reception, technical maintenance, security, facility management and landscaping. Services Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning service providers in the UK.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.368,
+        "bid_response_guidance": "Weak evidence (0.37 confidence). Requires significant research or consider partnership/subcontracting."
+      }
+    ],
+    "presentation": [
+      {
+        "id": "REQ-011",
+        "text": "Relevant case studies and 2 client references",
+        "category": "presentation",
+        "priority": "medium",
+        "business_impact": "Provides evidence of past success and reliability",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.36000000000000004,
+        "bid_response_guidance": "Weak evidence (0.36 confidence). Requires significant research or consider partnership/subcontracting."
+      }
+    ]
+  },
+  "requirements_by_priority": {
+    "critical": [
+      {
+        "id": "REQ-001",
+        "text": "Integration with our internal systems",
+        "category": "integration",
+        "priority": "critical",
+        "business_impact": "Ensures seamless operation with existing infrastructure",
+        "evaluation_weight": 0.0,
+        "source_section": "As part of the system capabilities, we require",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/",
+            "snippet": "- Waste Management Services - See all services ## Sector Expertise Samsic UK is a national provider of Facilities Management services, trusted by commercial and institutional clients operating across a range of sectors, including Education, Retail, Industrial, Public Sector, Healthcare and Pharmaceuticals, and more. Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning and security service providers in the UK. * ### **Our Services** Samsic UK are proud to offer professional services in cleaning, reception, technical maintenance, security, facility management and landscaping. Services Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning service providers in the UK.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.406,
+        "bid_response_guidance": "Moderate evidence available (0.41 confidence). Strengthen with additional case studies or certifications."
+      },
+      {
+        "id": "REQ-003",
+        "text": "AI-driven content generation and web-based access",
+        "category": "capabilities",
+        "priority": "critical",
+        "business_impact": "Enhances content creation efficiency and accessibility",
+        "evaluation_weight": 0.0,
+        "source_section": "As part of the system capabilities, we require",
+        "supporting_evidence": [],
+        "insights_count": 0,
+        "average_evidence_confidence": 0.0,
+        "bid_response_guidance": "ATTENTION: No supporting evidence found. Research needed for capabilities requirement."
+      }
+    ],
+    "high": [
+      {
+        "id": "REQ-002",
+        "text": "The ability to import our existing bid library",
+        "category": "features",
+        "priority": "high",
+        "business_impact": "Facilitates continuity and efficiency in bid preparation",
+        "evaluation_weight": 0.0,
+        "source_section": "As part of the system capabilities, we require",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/",
+            "snippet": "- Waste Management Services - See all services ## Sector Expertise Samsic UK is a national provider of Facilities Management services, trusted by commercial and institutional clients operating across a range of sectors, including Education, Retail, Industrial, Public Sector, Healthcare and Pharmaceuticals, and more. Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning and security service providers in the UK. * ### **Our Services** Samsic UK are proud to offer professional services in cleaning, reception, technical maintenance, security, facility management and landscaping. Services Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning service providers in the UK.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.368,
+        "bid_response_guidance": "Weak evidence (0.37 confidence). Requires significant research or consider partnership/subcontracting."
+      },
+      {
+        "id": "REQ-006",
+        "text": "Integration capabilities with existing tools (e.g. Microsoft Teams, Shared Drives, Salesforce)",
+        "category": "integration",
+        "priority": "high",
+        "business_impact": "Ensures compatibility and enhances workflow efficiency",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.38000000000000006,
+        "bid_response_guidance": "Weak evidence (0.38 confidence). Requires significant research or consider partnership/subcontracting."
+      },
+      {
+        "id": "REQ-007",
+        "text": "Licensing model and cost breakdown",
+        "category": "licensing",
+        "priority": "high",
+        "business_impact": "Provides clarity on financial commitments and scalability",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/",
+            "snippet": "- Waste Management Services - See all services ## Sector Expertise Samsic UK is a national provider of Facilities Management services, trusted by commercial and institutional clients operating across a range of sectors, including Education, Retail, Industrial, Public Sector, Healthcare and Pharmaceuticals, and more. Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning and security service providers in the UK. * ### **Our Services** Samsic UK are proud to offer professional services in cleaning, reception, technical maintenance, security, facility management and landscaping. Services Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning service providers in the UK.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.368,
+        "bid_response_guidance": "Weak evidence (0.37 confidence). Requires significant research or consider partnership/subcontracting."
+      },
+      {
+        "id": "REQ-008",
+        "text": "Return on Investment (ROI) examples",
+        "category": "roi",
+        "priority": "high",
+        "business_impact": "Demonstrates financial benefits and value proposition",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/",
+            "snippet": "- Waste Management Services - See all services ## Sector Expertise Samsic UK is a national provider of Facilities Management services, trusted by commercial and institutional clients operating across a range of sectors, including Education, Retail, Industrial, Public Sector, Healthcare and Pharmaceuticals, and more. Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning and security service providers in the UK. * ### **Our Services** Samsic UK are proud to offer professional services in cleaning, reception, technical maintenance, security, facility management and landscaping. Services Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning service providers in the UK.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.368,
+        "bid_response_guidance": "Weak evidence (0.37 confidence). Requires significant research or consider partnership/subcontracting."
+      },
+      {
+        "id": "REQ-009",
+        "text": "Proposed implementation approach and timeline",
+        "category": "implementation",
+        "priority": "high",
+        "business_impact": "Ensures timely and effective deployment of the solution",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [],
+        "insights_count": 0,
+        "average_evidence_confidence": 0.0,
+        "bid_response_guidance": "ATTENTION: No supporting evidence found. Research needed for implementation requirement."
+      },
+      {
+        "id": "REQ-010",
+        "text": "Ongoing support and maintenance services",
+        "category": "support",
+        "priority": "high",
+        "business_impact": "Ensures long-term reliability and performance of the system",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/innovations/taqtone/",
+            "snippet": "Seamless Integration. TaqtOne integrates with existing facility management systems or ERP platforms to enable automated alerts, reporting, and resource",
+            "confidence": 0.32000000000000006,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/about/",
+            "snippet": "- Waste Management Services - See all services ## Sector Expertise Samsic UK is a national provider of Facilities Management services, trusted by commercial and institutional clients operating across a range of sectors, including Education, Retail, Industrial, Public Sector, Healthcare and Pharmaceuticals, and more. Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning and security service providers in the UK. * ### **Our Services** Samsic UK are proud to offer professional services in cleaning, reception, technical maintenance, security, facility management and landscaping. Services Samsic UK is nationally acclaimed and accredited by a wide range of professional bodies, putting us amongst the best cleaning service providers in the UK.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_security_services_for_cbre",
+            "snippet": "Samsic UK operates across the entirety of England, Wales and Scotland, providing our clients with exceptional security solutions across a wide range of sectors.",
+            "confidence": 0.65,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://issuu.com/samsicuk/docs/samsic_services_october_2023",
+            "snippet": "We are a leading provider of trusted facilities management services working across a range of sectors, including healthcare, corporate and education.",
+            "confidence": 0.35,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.368,
+        "bid_response_guidance": "Weak evidence (0.37 confidence). Requires significant research or consider partnership/subcontracting."
+      }
+    ],
+    "medium": [
+      {
+        "id": "REQ-004",
+        "text": "5 super user accounts (for Project Managers and Bid Managers)",
+        "category": "users",
+        "priority": "medium",
+        "business_impact": "Allows key personnel to manage and oversee bid processes",
+        "evaluation_weight": 0.0,
+        "source_section": "As part of the system capabilities, we require",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://securityjournaluk.com/samsic-uk-workforce-management-platform/",
+            "snippet": "# Samsic UK launches integrated security operations and workforce management platform Samsic UK is launching an integrated security operations and workforce management platform after trials at Pladis Global. Its functionality ranges from paperless time and attendance reporting and payroll processing to affording clients a single view into security staffing, operations and compliance via its live dashboard. In late 2019, testing commenced of SamTech by the security and client management teams at Pladis to assess its day-to-day functionality and performance as well as the accuracy and quality of reporting capabilities. Says Samsic UK Security Director, Andrew Hallam: “Centralising management and reporting into a digitally-driven process brings cost and productivity benefits to provider and client. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+            "confidence": 0.30000000000000004,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          },
+          {
+            "source_url": "https://www.samsic.uk/exhibitions-case-studies/exhibition-case-study-5",
+            "snippet": "- See all services - Security Guarding Services - Security Services When Firstsource, a global outsourcing partner for Fortune 500 companies, required trusted cleaning and security services across its UK business centres, CBRE turned to Samsic UK. Today, Firstsource enjoys 98.67% SLI scores, reduced incidents, award-winning security, and a streamlined service delivery. ###### Professional Cleaning and Security Services Samsic and its partners use your data to contact you if you fill out a form (necessary cookies for the proper functioning of the site), as well as for audience measurement, analyzing statistics of our website with the aim of optimizing it, or to offer you personalized advertising.",
+            "confidence": 0.35000000000000003,
+            "tags": [
+              "features",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.3275,
+        "bid_response_guidance": "Weak evidence (0.33 confidence). Requires significant research or consider partnership/subcontracting."
+      },
+      {
+        "id": "REQ-005",
+        "text": "10 additional users with permissions to review content and create smaller proposals",
+        "category": "users",
+        "priority": "medium",
+        "business_impact": "Enables broader team collaboration and proposal creation",
+        "evaluation_weight": 0.0,
+        "source_section": "As part of the system capabilities, we require",
+        "supporting_evidence": [],
+        "insights_count": 0,
+        "average_evidence_confidence": 0.0,
+        "bid_response_guidance": "ATTENTION: No supporting evidence found. Research needed for users requirement."
+      },
+      {
+        "id": "REQ-011",
+        "text": "Relevant case studies and 2 client references",
+        "category": "presentation",
+        "priority": "medium",
+        "business_impact": "Provides evidence of past success and reliability",
+        "evaluation_weight": 0.0,
+        "source_section": "Your presentation should cover the following",
+        "supporting_evidence": [
+          {
+            "source_url": "https://www.entrustit.co.uk/wp-content/uploads/2025/05/Samsic-Case-Study-PDF-25.pdf",
+            "snippet": "Prior to partnering with entrust IT Group, Samsic UK had a long-term outsourced IT relationship with another Managed Service Provider. These are a valuable tool for guiding us with the best technology and strategies Case Study - Bourne Group Case Study - Samsic UK The Benefits to meet our needs as a growing business.” Over the decade of partnership between Samsic and entrust IT Group, the benefits have been clear to see. • Accountable to you: Live dashboards provide detailed information on progress towards goals © entrust IT Group Ltd - April 2025 -Samsic UK Case Study With such ambitious plans for growth at this innovative business, the entrust IT Group continues to be a trusted partner for Samsic long into the future.",
+            "confidence": 0.36000000000000004,
+            "tags": [
+              "integration",
+              "search-result"
+            ]
+          }
+        ],
+        "insights_count": 1,
+        "average_evidence_confidence": 0.36000000000000004,
+        "bid_response_guidance": "Weak evidence (0.36 confidence). Requires significant research or consider partnership/subcontracting."
+      }
+    ],
+    "low": []
+  },
+  "coverage_analysis": {
+    "total_requirements": 11,
+    "by_category": {
+      "integration": 2,
+      "features": 1,
+      "capabilities": 1,
+      "users": 2,
+      "licensing": 1,
+      "roi": 1,
+      "implementation": 1,
+      "support": 1,
+      "presentation": 1
+    },
+    "by_priority": {
+      "critical": 2,
+      "high": 6,
+      "medium": 3,
+      "low": 0
+    },
+    "critical_requirements_count": 2,
+    "high_priority_count": 6
+  },
+  "bid_writing_priorities": [
+    "Address all 2 critical requirements first",
+    "Develop strong responses for 6 high-priority requirements",
+    "Prepare presentation materials for required topics",
+    "Develop client-specific case studies",
+    "Create ROI calculations and examples"
+  ]
+}
