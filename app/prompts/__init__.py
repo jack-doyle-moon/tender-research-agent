@@ -1,0 +1,5 @@
+"""System prompts for the agents."""
+
+from .agent_prompts import RESEARCH_AGENT_PROMPT, VALIDATOR_AGENT_PROMPT, WRITER_AGENT_PROMPT
+
+__all__ = ["RESEARCH_AGENT_PROMPT", "VALIDATOR_AGENT_PROMPT", "WRITER_AGENT_PROMPT"]
